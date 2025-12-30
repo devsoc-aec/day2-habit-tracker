@@ -34,8 +34,7 @@ Contributors are encouraged to improve and extend it.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/devsoc-aec/habit-tracker.git
-cd habit-tracker
+git clone https://github.com/devsoc-aec/day2-habit-tracker.git
 ```
 
 ### 2. Install dependencies
